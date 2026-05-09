@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nacho-games
 - 👀 I’m interested in pygame
 - 🌱 I’m currently learning game designing
-- 📫 How to reach me bydrabokin1755@gmail.com
+- 📫 How to reach me bydrabokin1755@proton.me
 
 <!---
 Nacho-games/Nacho-games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
